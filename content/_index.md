@@ -25,25 +25,42 @@ testimonials:
     avatar: "/images/testimonial-1.svg"
     quote: "This theme made it easy to create a professional SaaS website. The build times are incredibly fast, and the code is clean and maintainable."
 ---
-
+<!--- 
+{{< testimonials 
+    title="Trusted by Modern Web Teams"
+    description="See how teams are building better websites with our theme."
+    animate="true"
+    background-color="#f1f5f9"
+>}}
+-->
+<!--- 
 {{< hero 
     headline="Build Your SaaS Website"
     sub_headline="Create stunning, responsive websites that load instantly. Built with Hugo and TailwindCSS for maximum performance and flexibility."
-    primary_button_text="Get Started Free"
-    primary_button_url="#"
-    secondary_button_text="View Demo"
-    secondary_button_url="#"
     hero_image="/images/hero-dashboard.svg"
     gradient-from="#dbeafe"
     gradient-to="#f3e8ff"
     gradient-angle="180"
 >}}
-
+-->
+<!---
 {{< client-logos animate="true" >}}
-
+-->
 {{< features-section 
-    title="Modern Features for Modern Websites"
-    description="Discover how our theme helps you build fast, beautiful SaaS websites with ease."
+    title="Hi there! I am Daniel Grib"
+    description="I am a Computer Science student with a passion for innovating in the fields of artificial intelligence, medical devices, and robotics. I enjoy tackling complex problems and creating solutions that bridge technology and real-world applications. My portfolio is comming soon!"
+>}}
+
+{{< feature
+    title="asdfdsafsadfs"
+    description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
+    badge="Performance"
+    badgeColor="#2563eb"
+    image="/images/feature-2.svg"
+    buttonText="Learn More"
+    buttonLink="/features/performance/"
+    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
+    imagePosition="left"
 >}}
 
 {{< feature
@@ -81,14 +98,28 @@ testimonials:
     features="Component system,Easy customization,Clean code,Detailed documentation"
     imagePosition="right"
 >}}
+<!--
+{{< feature
+    title="asdfdsafsadfs"
+    description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
+    badge="Performance"
+    badgeColor="#2563eb"
+    image="/images/feature-2.svg"
+    buttonText="Learn More"
+    buttonLink="/features/performance/"
+    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
+    imagePosition="left"
+>}}
+-->
 
 {{< /features-section >}}
-
+<!---
 {{< testimonials 
     title="Trusted by Modern Web Teams"
     description="See how teams are building better websites with our theme."
     animate="true"
     background-color="#f1f5f9"
 >}}
+-->
 
 {{< cta >}}
