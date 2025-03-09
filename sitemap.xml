@@ -2,133 +2,133 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/jobs/</loc>
+    <loc>https://daniel-grib.com/jobs/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/jobs/product-manager/</loc>
+    <loc>https://daniel-grib.com/jobs/product-manager/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/jobs/senior-frontend-developer/</loc>
+    <loc>https://daniel-grib.com/jobs/senior-frontend-developer/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/blog/</loc>
+    <loc>https://daniel-grib.com/blog/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/categories/</loc>
+    <loc>https://daniel-grib.com/categories/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/categories/content/</loc>
+    <loc>https://daniel-grib.com/categories/content/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/blog/content-management-hugo/</loc>
+    <loc>https://daniel-grib.com/blog/content-management-hugo/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/content-management/</loc>
+    <loc>https://daniel-grib.com/tags/content-management/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/hugo/</loc>
+    <loc>https://daniel-grib.com/tags/hugo/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/organization/</loc>
+    <loc>https://daniel-grib.com/tags/organization/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/</loc>
+    <loc>https://daniel-grib.com/tags/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/workflow/</loc>
+    <loc>https://daniel-grib.com/tags/workflow/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/optimization/</loc>
+    <loc>https://daniel-grib.com/tags/optimization/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/blog/optimizing-hugo-performance/</loc>
+    <loc>https://daniel-grib.com/blog/optimizing-hugo-performance/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/categories/performance/</loc>
+    <loc>https://daniel-grib.com/categories/performance/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/performance/</loc>
+    <loc>https://daniel-grib.com/tags/performance/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/seo/</loc>
+    <loc>https://daniel-grib.com/tags/seo/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/blog/deploying-hugo-sites/</loc>
+    <loc>https://daniel-grib.com/blog/deploying-hugo-sites/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/categories/deployment/</loc>
+    <loc>https://daniel-grib.com/categories/deployment/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/deployment/</loc>
+    <loc>https://daniel-grib.com/tags/deployment/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/github-pages/</loc>
+    <loc>https://daniel-grib.com/tags/github-pages/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/netlify/</loc>
+    <loc>https://daniel-grib.com/tags/netlify/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/vercel/</loc>
+    <loc>https://daniel-grib.com/tags/vercel/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/customization/</loc>
+    <loc>https://daniel-grib.com/tags/customization/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/blog/customizing-your-hugo-theme/</loc>
+    <loc>https://daniel-grib.com/blog/customizing-your-hugo-theme/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/categories/development/</loc>
+    <loc>https://daniel-grib.com/categories/development/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/themes/</loc>
+    <loc>https://daniel-grib.com/tags/themes/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/web-design/</loc>
+    <loc>https://daniel-grib.com/tags/web-design/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/beginners/</loc>
+    <loc>https://daniel-grib.com/tags/beginners/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/blog/getting-started-with-hugo/</loc>
+    <loc>https://daniel-grib.com/blog/getting-started-with-hugo/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/static-site/</loc>
+    <loc>https://daniel-grib.com/tags/static-site/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/categories/tutorials/</loc>
+    <loc>https://daniel-grib.com/categories/tutorials/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/tags/web-development/</loc>
+    <loc>https://daniel-grib.com/tags/web-development/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/careers/</loc>
+    <loc>https://daniel-grib.com/careers/</loc>
     <lastmod>2025-03-08T17:55:58+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/company/</loc>
+    <loc>https://daniel-grib.com/company/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/features/design-system/</loc>
+    <loc>https://daniel-grib.com/features/design-system/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/features/developer-experience/</loc>
+    <loc>https://daniel-grib.com/features/developer-experience/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/features/</loc>
+    <loc>https://daniel-grib.com/features/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/</loc>
+    <loc>https://daniel-grib.com/</loc>
     <lastmod>2025-03-08T17:55:58+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/license/</loc>
+    <loc>https://daniel-grib.com/license/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/features/performance/</loc>
+    <loc>https://daniel-grib.com/features/performance/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/pricing/</loc>
+    <loc>https://daniel-grib.com/pricing/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url><url>
-    <loc>https://daniel-grib.github.io/my-hugo-site/privacy/</loc>
+    <loc>https://daniel-grib.com/privacy/</loc>
     <lastmod>2025-03-07T18:04:21+01:00</lastmod>
   </url>
 </urlset>

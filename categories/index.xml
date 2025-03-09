@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Daniel Grib</title>
-    <link>https://daniel-grib.github.io/my-hugo-site/categories/</link>
+    <link>https://daniel-grib.com/categories/</link>
     <description>Recent content in Categories on Daniel Grib</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Mar 2025 18:04:21 +0100</lastBuildDate>
-    <atom:link href="https://daniel-grib.github.io/my-hugo-site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://daniel-grib.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content</title>
-      <link>https://daniel-grib.github.io/my-hugo-site/categories/content/</link>
+      <link>https://daniel-grib.com/categories/content/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://daniel-grib.github.io/my-hugo-site/categories/content/</guid>
+      <guid>https://daniel-grib.com/categories/content/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance</title>
-      <link>https://daniel-grib.github.io/my-hugo-site/categories/performance/</link>
+      <link>https://daniel-grib.com/categories/performance/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://daniel-grib.github.io/my-hugo-site/categories/performance/</guid>
+      <guid>https://daniel-grib.com/categories/performance/</guid>
       <description></description>
     </item>
     <item>
       <title>Deployment</title>
-      <link>https://daniel-grib.github.io/my-hugo-site/categories/deployment/</link>
+      <link>https://daniel-grib.com/categories/deployment/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://daniel-grib.github.io/my-hugo-site/categories/deployment/</guid>
+      <guid>https://daniel-grib.com/categories/deployment/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>https://daniel-grib.github.io/my-hugo-site/categories/development/</link>
+      <link>https://daniel-grib.com/categories/development/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://daniel-grib.github.io/my-hugo-site/categories/development/</guid>
+      <guid>https://daniel-grib.com/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorials</title>
-      <link>https://daniel-grib.github.io/my-hugo-site/categories/tutorials/</link>
+      <link>https://daniel-grib.com/categories/tutorials/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://daniel-grib.github.io/my-hugo-site/categories/tutorials/</guid>
+      <guid>https://daniel-grib.com/categories/tutorials/</guid>
       <description></description>
     </item>
   </channel>
